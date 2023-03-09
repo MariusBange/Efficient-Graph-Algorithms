@@ -1,0 +1,1658 @@
+Testeingabe:
+[(15, 11, 9), (15, 11, 12), (15, 11, 15), (15, 11, 18), (15, 11, 21), (15, 20, 9), (15, 20, 12), (15, 20, 15), (15, 20, 18), (15, 20, 21), (15, 20, 24), (15, 25, 30), (15, 35, 45)]
+
+Instanzen: 15
+Knotenanzahl: 11
+Maximale Kapazität: 9
+
+
+########## Neues Tupel ##########
+
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 26   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 26   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 26   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 26   Verletzung Flussbedingungen: Ja   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 23   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 23   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 23   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 23   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 0   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 0   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 0   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 0   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 22   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 22   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 22   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 22   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 13   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 13   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 13   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 13   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 8   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 8   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 8   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 8   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 9   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 9   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 9   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 9   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 8   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 8   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 8   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 8   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 14   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 14   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 14   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 14   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 10   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 10   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 10   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 10   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 19   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 19   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 19   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 19   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 10   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 10   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 10   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 10   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 4   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 4   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 4   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 4   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 17   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 17   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 17   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 17   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 17   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 17   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 17   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 17   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+Instanzen: 15
+Knotenanzahl: 11
+Maximale Kapazität: 12
+
+
+########## Neues Tupel ##########
+
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 24   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 24   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 24   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 24   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 25   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 25   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 25   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 25   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 12   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 12   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 12   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 12   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 8   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 8   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 8   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 8   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 1   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 1   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 1   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 1   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 15   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 15   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 15   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 15   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 21   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 21   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 21   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 21   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 18   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 18   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 18   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 18   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 21   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 21   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 21   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 21   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 17   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 17   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 17   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 17   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 16   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 16   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 16   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 16   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 5   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 5   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 5   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 5   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 28   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 28   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 28   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 28   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 28   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 28   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 28   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 28   Verletzung Flussbedingungen: Ja   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 4   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 4   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 4   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 4   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+Instanzen: 15
+Knotenanzahl: 11
+Maximale Kapazität: 15
+
+
+########## Neues Tupel ##########
+
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 29   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 29   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 29   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 29   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 34   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 34   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 34   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 34   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 26   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 26   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 26   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 26   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 27   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 27   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 27   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 27   Verletzung Flussbedingungen: Ja   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 24   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 24   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 24   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 24   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 41   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 41   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 41   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 41   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 30   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 30   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 30   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 30   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 11   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 11   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 11   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 11   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 12   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 12   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 12   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 12   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 12   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 12   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 12   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 12   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 38   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 38   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 38   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 38   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 26   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 26   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 26   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 26   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 13   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 13   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 13   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 13   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 9   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 9   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 9   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 9   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 22   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 22   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 22   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 22   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+Instanzen: 15
+Knotenanzahl: 11
+Maximale Kapazität: 18
+
+
+########## Neues Tupel ##########
+
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 20   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 20   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 20   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 20   Verletzung Flussbedingungen: Ja   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 21   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 21   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 21   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 21   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 27   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 27   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 27   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 27   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 27   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 27   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 27   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 27   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 21   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 21   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 21   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 21   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 31   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 31   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 31   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 31   Verletzung Flussbedingungen: Ja   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 21   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 21   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 21   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 21   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 21   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 21   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 21   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 21   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 17   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 17   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 17   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 17   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 31   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 31   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 31   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 31   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 16   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 16   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 16   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 16   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 26   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 26   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 26   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 26   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 30   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 30   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 30   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 30   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 29   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 29   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 29   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 29   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 28   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 28   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 28   Verletzung Flussbedingungen: Ja   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 28   Verletzung Flussbedingungen: Ja   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+Instanzen: 15
+Knotenanzahl: 11
+Maximale Kapazität: 21
+
+
+########## Neues Tupel ##########
+
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 33   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 33   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 33   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 33   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 28   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 28   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 28   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 28   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 35   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 35   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 35   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 35   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 26   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 26   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 26   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 26   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 11   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 11   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 11   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 11   Verletzung Flussbedingungen: Ja   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 35   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 35   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 35   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 35   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 26   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 26   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 26   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 26   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 44   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 44   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 44   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 44   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 37   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 37   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 37   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 37   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 31   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 31   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 31   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 31   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 36   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 36   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 36   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 36   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 31   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 31   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 31   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 31   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 39   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 39   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 39   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 39   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 36   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 36   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 36   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 36   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 48   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 48   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 48   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 48   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+Instanzen: 15
+Knotenanzahl: 20
+Maximale Kapazität: 9
+
+
+########## Neues Tupel ##########
+
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 11   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 11   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 11   Verletzung Flussbedingungen: Ja   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 11   Verletzung Flussbedingungen: Ja   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 10   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 10   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 10   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 10   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 16   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 16   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 16   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 16   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 6   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 6   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 6   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 6   Verletzung Flussbedingungen: Ja   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 11   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 11   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 11   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 11   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 6   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 6   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 6   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 6   Verletzung Flussbedingungen: Ja   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 11   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 11   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 11   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 11   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 15   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 15   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 15   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 15   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 7   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 7   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 7   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 7   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 12   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 12   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 12   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 12   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 14   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 14   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 14   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 14   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 7   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 7   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 7   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 7   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 22   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 22   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 22   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 22   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 10   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 10   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 10   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 10   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 15   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 15   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 15   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 15   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+Instanzen: 15
+Knotenanzahl: 20
+Maximale Kapazität: 12
+
+
+########## Neues Tupel ##########
+
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 15   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 15   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 15   Verletzung Flussbedingungen: Ja   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 15   Verletzung Flussbedingungen: Ja   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 10   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 10   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 10   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 10   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 24   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 24   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 24   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 24   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 15   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 15   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 15   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 15   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 17   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 17   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 17   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 17   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 8   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 8   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 8   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 8   Verletzung Flussbedingungen: Ja   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 15   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 15   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 15   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 15   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 7   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 7   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 7   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 7   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 11   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 11   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 11   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 11   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 11   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 11   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 11   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 11   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 18   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 18   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 18   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 18   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 7   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 7   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 7   Verletzung Flussbedingungen: Ja   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 7   Verletzung Flussbedingungen: Ja   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 17   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 17   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 17   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 17   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 12   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 12   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 12   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 12   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 15   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 15   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 15   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 15   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+Instanzen: 15
+Knotenanzahl: 20
+Maximale Kapazität: 15
+
+
+########## Neues Tupel ##########
+
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 29   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 29   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 29   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 29   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 21   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 21   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 21   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 21   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 18   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 18   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 18   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 18   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 32   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 32   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 32   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 32   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 11   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 11   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 11   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 11   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 15   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 15   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 15   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 15   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 17   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 17   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 17   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 17   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 3   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 3   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 3   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 3   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 37   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 37   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 37   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 37   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 9   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 9   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 9   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 9   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 10   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 10   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 10   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 10   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 18   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 18   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 18   Verletzung Flussbedingungen: Ja   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 18   Verletzung Flussbedingungen: Ja   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 21   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 21   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 21   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 21   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 17   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 17   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 17   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 17   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 27   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 27   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 27   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 27   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+Instanzen: 15
+Knotenanzahl: 20
+Maximale Kapazität: 18
+
+
+########## Neues Tupel ##########
+
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 13   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 13   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 13   Verletzung Flussbedingungen: Ja   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 13   Verletzung Flussbedingungen: Ja   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 31   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 31   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 31   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 31   Verletzung Flussbedingungen: Ja   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 27   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 27   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 27   Verletzung Flussbedingungen: Ja   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 27   Verletzung Flussbedingungen: Ja   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 14   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 14   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 14   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 14   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 38   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 38   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 38   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 38   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 26   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 26   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 26   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 26   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 21   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 21   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 21   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 21   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 19   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 19   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 19   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 19   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 20   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 20   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 20   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 20   Verletzung Flussbedingungen: Ja   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 15   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 15   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 15   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 15   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 25   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 25   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 25   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 25   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 30   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 30   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 30   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 30   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 18   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 18   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 18   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 18   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 3   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 3   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 3   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 3   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 19   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 19   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 19   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 19   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+Instanzen: 15
+Knotenanzahl: 20
+Maximale Kapazität: 21
+
+
+########## Neues Tupel ##########
+
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 21   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 21   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 21   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 21   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 24   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 24   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 24   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 24   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 22   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 22   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 22   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 22   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 22   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 22   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 22   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 22   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 13   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 13   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 13   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 13   Verletzung Flussbedingungen: Ja   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 24   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 24   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 24   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 24   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 27   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 27   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 27   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 27   Verletzung Flussbedingungen: Ja   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 28   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 28   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 28   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 28   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 0   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 0   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 0   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 0   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 20   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 20   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 20   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 20   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 22   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 22   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 22   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 22   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 16   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 16   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 16   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 16   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 37   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 37   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 37   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 37   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 28   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 28   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 28   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 28   Verletzung Flussbedingungen: Ja   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 28   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 28   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 28   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 28   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+Instanzen: 15
+Knotenanzahl: 20
+Maximale Kapazität: 24
+
+
+########## Neues Tupel ##########
+
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 22   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 22   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 22   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 22   Verletzung Flussbedingungen: Ja   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 13   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 13   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 13   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 13   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 34   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 34   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 34   Verletzung Flussbedingungen: Ja   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 34   Verletzung Flussbedingungen: Ja   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 20   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 20   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 20   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 20   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 12   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 12   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 12   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 12   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 32   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 32   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 32   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 32   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 14   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 14   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 14   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 14   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 14   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 14   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 14   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 14   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 32   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 32   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 32   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 32   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 11   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 11   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 11   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 11   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 38   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 38   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 38   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 38   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 35   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 35   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 35   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 35   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 40   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 40   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 40   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 40   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 13   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 13   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 13   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 13   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 49   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 49   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 49   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 49   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+Instanzen: 15
+Knotenanzahl: 25
+Maximale Kapazität: 30
+
+
+########## Neues Tupel ##########
+
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 36   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 36   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 36   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 36   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 20   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 20   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 20   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 20   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 30   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 30   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 30   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 30   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 38   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 38   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 38   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 38   Verletzung Flussbedingungen: Ja   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 33   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 33   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 33   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 33   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 34   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 34   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 34   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 34   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 32   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 32   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 32   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 32   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 19   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 19   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 19   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 19   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 22   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 22   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 22   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 22   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 39   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 39   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 39   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 39   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 62   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 62   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 62   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 62   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 15   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 15   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 15   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 15   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 36   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 36   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 36   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 36   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 50   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 50   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 50   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 50   Verletzung Flussbedingungen: Ja   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 40   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 40   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 40   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 40   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+Instanzen: 15
+Knotenanzahl: 35
+Maximale Kapazität: 45
+
+
+########## Neues Tupel ##########
+
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 51   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 51   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 51   Verletzung Flussbedingungen: Ja   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 51   Verletzung Flussbedingungen: Ja   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 37   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 37   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 37   Verletzung Flussbedingungen: Ja   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 37   Verletzung Flussbedingungen: Ja   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 18   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 18   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 18   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 18   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 54   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 54   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 54   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 54   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 41   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 41   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 41   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 41   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 61   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 61   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 61   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 61   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 52   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 52   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 52   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 52   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 69   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 69   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 69   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 69   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 51   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 51   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 51   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 51   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 31   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 31   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 31   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 31   Verletzung Flussbedingungen: Ja   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 32   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 32   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 32   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 32   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 28   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 28   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 28   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 28   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 71   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 71   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 71   Verletzung Flussbedingungen: Ja   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 71   Verletzung Flussbedingungen: Ja   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 70   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 70   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 70   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 70   Verletzung Flussbedingungen: Ja   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+
+########## Neue Instanz ##########
+
+Ford-Fulkerson Ergebnis: 81   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Edmonds-Karp Ergebnis: 81   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Dinic Ergebnis: 81   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Preflow-Push Ergebnis: 81   Verletzung Flussbedingungen: Nein   Verletzung Kapazitätsbedingungen: Nein
+Anzahl ungleicher Ergebnisse: Ja
+#################### Testergebnisse ####################
+Fehler insgesamt: 0
+Verletzung Flussbedingungen insgesamt:41
+Verletzung Kapazitätsbedingungen insgesamt:0
