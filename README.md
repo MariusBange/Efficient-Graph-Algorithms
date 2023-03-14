@@ -1,4 +1,4 @@
-# EfficientGraphAlgorithms
+# Efficient Graph Algorithms
 
 For a given amount of nodes and a max capacity, a random generator creates a strongly connected, max planar, directed graph, which contains the backward edge to every existing edge.
 
